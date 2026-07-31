@@ -1,0 +1,13 @@
+{
+  "name": "braindump",
+  "owner": {
+    "name": "John Spence"
+  },
+  "plugins": [
+    {
+      "name": "braindump",
+      "source": "./plugin",
+      "description": "Your brain, as a tool: dump session knowledge into braindump and load context back out. Ships the remote MCP connection plus the dump/load skills."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "braindump",
+  "version": "0.1.0",
+  "description": "Dump knowledge into your braindump and load context back out — the memory loop for agent sessions.",
+  "author": {
+    "name": "John Spence"
+  }
+}
