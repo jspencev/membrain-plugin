@@ -17,6 +17,13 @@ Deposit knowledge from this session onto the user's braindump tape via the
 `dump` MCP tool. This is their personal brain — one permanent, append-only,
 searchable memory shared across all their sessions and agents.
 
+## Invoked with arguments = CLI mode
+
+When run as `/braindump:dump <text>` with arguments, the arguments ARE the
+entry: call the `dump` tool with them as given — no distilling, no expansion,
+no ceremony — and confirm with the entry id. Everything below governs
+proactive dumping during a session, not this pass-through case.
+
 ## What braindump does for you (so you don't do it yourself)
 
 - Every dump is stored **verbatim and immutably**, timestamped, then a

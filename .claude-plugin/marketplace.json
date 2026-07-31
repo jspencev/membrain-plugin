@@ -7,7 +7,7 @@
     {
       "name": "braindump",
       "source": "./plugin",
-      "description": "Your brain, as a tool: dump session knowledge into braindump and load context back out. Ships the remote MCP connection plus the dump/load skills."
+      "description": "Your brain, as a tool: dump session knowledge into braindump and load context back out. Ships the remote MCP connection plus skills — dump and load for the session memory loop, ask and history as direct pass-throughs."
     }
   ]
 }
