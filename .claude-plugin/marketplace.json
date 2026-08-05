@@ -1,13 +1,13 @@
 {
-  "name": "braindump",
+  "name": "membrain",
   "owner": {
     "name": "John Spence"
   },
   "plugins": [
     {
-      "name": "braindump",
+      "name": "membrain",
       "source": "./plugin",
-      "description": "Your brain, as a tool: dump session knowledge into braindump and load context back out. Ships the remote MCP connection plus skills — dump and load for the session memory loop, ask and history as direct pass-throughs."
+      "description": "Your brain, as a tool: dump session knowledge into membrain and load context back out. Ships the remote MCP connection plus the dump/load skills."
     }
   ]
 }
