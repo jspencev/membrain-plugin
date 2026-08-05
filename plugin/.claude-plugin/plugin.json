@@ -1,6 +1,6 @@
 {
-  "name": "braindump",
-  "description": "Dump knowledge into your braindump and load context back out — the memory loop for agent sessions.",
+  "name": "membrain",
+  "description": "Dump knowledge into your membrain and load context back out — the memory loop for agent sessions.",
   "author": {
     "name": "John Spence"
   }

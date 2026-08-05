@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "braindump": {
+    "membrain": {
       "type": "http",
       "url": "https://api-production-599b.up.railway.app/mcp"
     }
