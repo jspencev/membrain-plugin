@@ -2,7 +2,7 @@
   "mcpServers": {
     "membrain": {
       "type": "http",
-      "url": "https://api-production-599b.up.railway.app/mcp"
+      "url": "https://api.trymembrain.com/mcp"
     }
   }
 }
