@@ -1,8 +1,8 @@
 {
   "mcpServers": {
-    "membrain": {
+    "tilden": {
       "type": "http",
-      "url": "https://api.trymembrain.com/mcp"
+      "url": "https://api.usetilden.com/mcp"
     }
   }
 }

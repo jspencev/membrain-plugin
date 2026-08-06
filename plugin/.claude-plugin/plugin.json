@@ -1,6 +1,6 @@
 {
-  "name": "membrain",
-  "description": "Dump knowledge into your membrain and load context back out — the memory loop for agent sessions.",
+  "name": "tilden",
+  "description": "Dump knowledge into your tilden and load context back out — the memory loop for agent sessions.",
   "author": {
     "name": "John Spence"
   }

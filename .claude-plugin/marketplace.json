@@ -1,13 +1,13 @@
 {
-  "name": "membrain",
+  "name": "tilden",
   "owner": {
     "name": "John Spence"
   },
   "plugins": [
     {
-      "name": "membrain",
+      "name": "tilden",
       "source": "./plugin",
-      "description": "Your brain, as a tool: dump session knowledge into membrain and load context back out. Ships the remote MCP connection plus the dump/load skills."
+      "description": "Your brain, as a tool: dump session knowledge into tilden and load context back out. Ships the remote MCP connection plus the dump/load skills."
     }
   ]
 }

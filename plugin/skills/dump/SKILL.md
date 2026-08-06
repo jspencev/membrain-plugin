@@ -1,9 +1,9 @@
 ---
 name: dump
 description: >-
-  Dump knowledge from this session into the user's membrain (their personal
-  permanent memory) via the membrain MCP dump tool. Use when the user runs
-  /membrain:dump or says to remember/dump something — and proactively, without
+  Dump knowledge from this session into the user's tilden (their personal
+  permanent memory) via the tilden MCP dump tool. Use when the user runs
+  /tilden:dump or says to remember/dump something — and proactively, without
   asking, when the session produces something worth keeping: a decision and its
   why, a learning, a gotcha, project state, a milestone reached, or personal
   context the user voiced. Dump as you go at natural milestones and do a final
@@ -11,20 +11,20 @@ description: >-
   tape is immutable.
 ---
 
-# Dump to membrain
+# Dump to tilden
 
-Deposit knowledge from this session onto the user's membrain tape via the
+Deposit knowledge from this session onto the user's tilden tape via the
 `dump` MCP tool. This is their personal brain — one permanent, append-only,
 searchable memory shared across all their sessions and agents.
 
 ## Invoked with arguments = CLI mode
 
-When run as `/membrain:dump <text>` with arguments, the arguments ARE the
+When run as `/tilden:dump <text>` with arguments, the arguments ARE the
 entry: call the `dump` tool with them as given — no distilling, no expansion,
 no ceremony — and confirm with the entry id. Everything below governs
 proactive dumping during a session, not this pass-through case.
 
-## What membrain does for you (so you don't do it yourself)
+## What tilden does for you (so you don't do it yourself)
 
 - Every dump is stored **verbatim and immutably**, timestamped, then a
   background agent enriches it with a fat keyword pile, resolved dates, and

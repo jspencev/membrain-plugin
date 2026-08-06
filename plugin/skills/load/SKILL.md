@@ -1,17 +1,17 @@
 ---
 name: load
 description: >-
-  Load context from the user's membrain (their personal permanent memory) via
-  the membrain MCP ask tool. Use when the user runs /membrain:load, asks
+  Load context from the user's tilden (their personal permanent memory) via
+  the tilden MCP ask tool. Use when the user runs /tilden:load, asks
   "what do I know about X" / "what did I say about X", or when prior context —
   a past decision, project history, a person, a plan — would unblock or
   meaningfully inform the current work. Ask targeted questions, synthesize
   silently, reply with a brief orientation, then get to work.
 ---
 
-# Load from membrain
+# Load from tilden
 
-Orient yourself using the user's membrain — their permanent memory of past
+Orient yourself using the user's tilden — their permanent memory of past
 sessions, decisions, projects, and life context — via the `ask` MCP tool.
 
 ## How it works
